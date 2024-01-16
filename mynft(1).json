@@ -1,0 +1,16 @@
+{
+    "title": "openspace",
+    "description": "evan's NFT",
+    "image": "ipfs://QmVBUUehve14QF7D4zPidnf5TzoLUW9nqD4GmdVnsHUyyy",
+    "attributes": [
+        {
+            "trait_type": "财富",
+            "value": "99999999"
+        },
+        {
+            "trait_type": "姓名",
+            "value": "evan"
+        }
+    ],
+    "version": "0"
+}
