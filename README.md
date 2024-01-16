@@ -1,3 +1,4 @@
+# NFT Market #
 <a name="N0MqR"></a>
 ### 发行一个NFT
 ![图片.png](https://cdn.nlark.com/yuque/0/2024/png/27181615/1705385888848-d57db043-fb89-477c-8bd0-e167added6f8.png#averageHue=%23232538&clientId=uea983b3e-1d47-4&from=paste&height=335&id=u8f43a589&originHeight=502&originWidth=844&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=41512&status=done&style=none&taskId=ue410964d-a200-42a9-a89f-784d421bb3e&title=&width=562.6666666666666)<br />mint()后在opensea上查看
